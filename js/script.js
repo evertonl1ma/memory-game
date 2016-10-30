@@ -1,13 +1,3 @@
-/*
-	1 - Posicionar as cartas X
-	2 - Virar as cartas X
-	3 - Virar apenas duas cartas X
-	4 - Embaralhar as cartas toda vez que o jogo começar X
-	5 - Adicionar classe nas cartas que forem match e fazer subir uma imagem
-	6 - Ter um contador para verificar quando o jogo vai acabar
-	7 - Criar tela de game over
-*/
-
 (function() {
 	function buildCard() {
 		let totalCards= 42;
@@ -132,40 +122,3 @@
 	 	})
 	 }
 })();
-
-/*
-Já cheguei.
-
-Então, eu não sei se vc sabe, mas pelas linhas do rosto é possível 
-saber muito sobre uma pessoa.
-
-E em uma de suas fotos eu percebi algumas coisas sobre vc.
-
-Então, são as linhas que nós temos na face.
-
-Por exemplo
-
-Por  essa linha no seu queixo eu percebo que vc é uma pessoa muito teimosa.
-preguiçosa pra algumas coisas, disposta pra outras. Que é uma pessoa impulsiva, 
-
-e que ás vezes toma algumas decisões que se arrepende. Vc queria voltar atrás.
-
-Provavelmente sua mãe devia sofrer na sua mão. Haha
-
-Mas eu vou te falar só das coisas superficiais que eu percebi. tá?!
-
-As coisas profundas não é legal falar por aqui
-
-Eu apenas percebi vendo uma foto sua 
-
-Terceiro passo
---------------
-Eu sei qual o encontro perfeito pra você
-
-O encontro perfeito não é um encontro comum. 
-Não quer um cara chato, quer um cara divertido, que fale coisas excitantes. É quando
-vc se diverte.
-
-Então eu acho que a gente vai se dar bem, pq eu sou exatamente assim.
-
-*/
